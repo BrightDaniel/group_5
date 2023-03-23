@@ -4,7 +4,7 @@ echo "What is your name? "
 
 read name
 
-echo "Your name is $name"
+echo "Welcome to group_5 $name"
 
 
 
