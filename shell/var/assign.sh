@@ -1,8 +1,10 @@
 #!/bin/bash
 
-echo "What is your name? " 
+echo  "What is your name? " 
 
 read name
+echo  "What is your Cohort? "
+read cohort
 
 echo "Welcome to group_5 $name"
 
@@ -14,8 +16,7 @@ then
 elif ((score == 80));
 then
 	echo "You where lucky! Congrats"
-elif ((score > 80));
-then
+else
 	echo "You're so good! Welcome"
 fi
 
