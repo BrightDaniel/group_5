@@ -12,7 +12,7 @@ int main()
 		scanf("%s", last_name);
 
 
-	printf("Your name is first name = %s and your last name is = %s");
+	printf("Your name is first name = %s and your last name is = %s",first_name, last_name);
 
 	return 0;
 
