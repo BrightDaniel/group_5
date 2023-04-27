@@ -1,0 +1,10 @@
+#include <stdio.h>
+/**
+ * main - entry point
+ * programme to calculate profit or loss
+ *Return: on success 0
+ */
+
+int main(void)
+{
+	int cost_p, sell_p, d
