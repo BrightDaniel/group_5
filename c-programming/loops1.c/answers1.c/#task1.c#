@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+/**
+ * Print out all even numbers within a given range without using if statement.
+ * main - entry point
+ *Return: Always 0
+ */
+int main(void)
+{
+	int input, even_num;
+
+	printf("
+	return (0);
+}
