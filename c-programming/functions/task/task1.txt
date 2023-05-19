@@ -1,0 +1,8 @@
+Go ahead, and create any user defined function you think will be suitable for the following requirement:
+
+1:	Your function should have at least 3 arguments including a char, a string, and an int.
+2:	Your function should have no return type.
+3:	Your function shouuld take input from the user.
+4:	Your function should have a prototype, declaraion, definition and calling.
+
+Write your answer in a folder called answers.
