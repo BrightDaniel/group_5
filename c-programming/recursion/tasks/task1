@@ -1,0 +1,6 @@
+Use a recursive function to print out numbers backward up till 0, like this: 
+
+eg:
+
+Enter a number: 9
+Result: 9 8 7 6 5 4 3 2 1 0.
